@@ -1,0 +1,65 @@
+#logo{
+  margin: 3px;
+  float:left
+}
+
+header h1{
+ text-align: left;
+  
+}
+
+#yes{
+  
+  font-size: 10px;
+}
+
+header img{
+  float: right;
+}
+
+p{
+  text-align: center;
+
+}
+
+#pizza{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form{
+ 
+  background-image: url(images/list-bg.png);
+  padding: 30px;
+ font-size:20px;
+}
+
+#left{
+  float: left;
+}
+
+
+
+input[type=checkbox]:checked + label {
+  text-decoration: line-through;}
+
+
+footer img {
+  float: left;
+}
+
+footer h4{
+  text-align: left;
+  font-size: 20px;
+}
+
+#yesss{
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+footer a{
+  float: right;
+  
+}
